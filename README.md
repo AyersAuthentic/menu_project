@@ -1,0 +1,1 @@
+# Vanilla Javascript project with a menu.
